@@ -1,6 +1,6 @@
 # Hertz Programming Language
 
-Hertz is a simple, easy-to-learn programming language designed by [Your Name]. It is built to be intuitive and versatile, suitable for a wide range of applications. This repository contains the source code for the Hertz interpreter, written in Python.
+Hertz is a simple, easy-to-learn programming language designed by Prathamesh More. It is built to be intuitive and versatile, suitable for a wide range of applications. This repository contains the source code for the Hertz interpreter, written in Python.
 
 ## Features
 - **Simple Syntax**: Hertz has a clean and minimalistic syntax inspired by languages like Python and JavaScript.
